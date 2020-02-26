@@ -22,15 +22,11 @@ The goals of this project are as follows.
 [imgSample]: ./output_images/final_result.jpg "Output"
 [videoProj]: ./output_videos/project_video_output.mp4 "Video"
 
-## Rubric Points
+## Algorithm Description
 
-### The [rubric points](https://review.udacity.com/#!/rubrics/571/view) are considered individually in this section to elaborate how the implementation addresses each one.  
+### This section is organised into several subsections detailing key pieces of the image processing pipeline, and concludes with an explanation of how this was extended to process videos.  
 
 ---
-
-### Writeup / README
-
-This document is meant to address this very first rubric point.
 
 ### Camera Calibration
 
