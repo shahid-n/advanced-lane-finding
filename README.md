@@ -1,5 +1,4 @@
 # Advanced Lane Finding Project
----
 
 The goals of this project are as follows.
 
