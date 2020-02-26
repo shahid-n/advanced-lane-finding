@@ -102,7 +102,7 @@ These steps were accomplished in lines 273 through 302 in `p2_img.py`.  Here is 
 
 #### Summary of video pipeline
 
-The video pipeline is merely based on the single image pipeline described in the previous section; however, a couple of key differences are:
+The video pipeline is a straightforward extension of the single image pipeline described in the previous section; however, a couple of key differences are:
 a) the presence of a more focused search method contained in the `search_around_poly(, , , )` function within [p2.py](./p2.py), and
 b) the `Line()` object class, which was used to keep track of previously fitted polynomials along with a moving average of these coefficients, which could then be substituted in place of missing lane pixels, if any, or a poorly fit polynomial (as measured in terms of the overall mean-squared error between the moving average values and the most recent set of coefficients).
 
