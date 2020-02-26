@@ -120,9 +120,9 @@ In order to view the main project demonstration, please follow this [link to the
 
 ---
 
-### Discussion and concluding remarks
+## Discussion and concluding remarks
 
-#### 1. Highlights and key techniques
+### 1. Highlights and key techniques
 
 The advanced edge detection, colour space theory and thresholding, perspective transform and curve fitting techniques were critical to the success of this project.
 
@@ -132,7 +132,7 @@ It was also possible to apply additional smoothing and to tune this using suitab
 
 The performance of my `p2.py` lane finding pipeline on the challenge video, whilst not as successful as the main project video, nevertheless displays some promise by being able to adapt to an unusually and rapidly altering host lane. The result of my attempt to process the challenge video can be seen [here.](./output_videos/challenge_video_output.mp4)
 
-#### 2. Limitations and possible future improvements
+### 2. Limitations and possible future improvements
 
 Whilst this project proved to be a significant improvement over the first lane finding endeavour, it was made abundantly clear by the two challenge videos that many hurdles remain. A couple of them are discussed here.
 
